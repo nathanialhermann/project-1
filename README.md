@@ -21,6 +21,7 @@ The purpose of this project is to analyze the crime rate in 10 of the most dange
 *This pie graph displays the difference between genders and each crime committed by that gender.*
 
 ![Area of Incident](Visuals/Area.png)
+
 *A graph that allows users to view which area of the 10 has the most crimes committed.*
 
 ![Age vs Incident](Visuals/AgeVsIncidentsLine.png)
